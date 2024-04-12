@@ -23,7 +23,7 @@ This Python script allows you to capture and transcribe audio from a live stream
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/real-time-audio-transcription.git
+   git clone https://github.com/SYLatere/broadcastify-audio-transcriber.git
    ```
 
 2. Install the required libraries:
